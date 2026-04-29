@@ -12,7 +12,4 @@ I'm Guilherme from Brazil<br><br>- 🔭 I’m working as a Minor Apprentice at W
 ![](https://streak-stats.demolab.com/?user=Kilop206&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kilop206&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Kilop206&icon=1&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
