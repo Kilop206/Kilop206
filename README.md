@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilherme-d%C3%B6ge-680277361/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-d%C3%B6ge-680277361/" target="_blank" display="inline">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" display="inline"  />
   </a>
-  <a href="mailto:guilhermextra118@gmail.com" target="_blank">
+  <a href="mailto:guilhermextra118@gmail.com" target="_blank" display="inline">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" display="inline"  />
   </a>
 </div>
