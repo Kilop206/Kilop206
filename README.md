@@ -104,7 +104,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kilop206&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Kilop206/Kilop206/stats-output/stats.svg" height="250" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Kilop206/Kilop206/languages-output/languages.svg" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Kilop206&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
