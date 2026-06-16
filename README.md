@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Guilherme from Brazil<br><br>- 🔭 I’m working as a Minor Apprentice at WEG<br>- 📚 I'm currently learning CMake<br>- ⚡ In my free time I develop creative media</p>
+<p align="left">I'm Guilherme from Brazil<br><br>- 🔭 I’m working as a Minor Apprentice at WEG<br>- 📚 I'm currently learning Docker<br>- ⚡ In my free time I develop creative media</p>
 
 ###
 
