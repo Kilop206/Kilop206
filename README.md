@@ -107,9 +107,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kilop206&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
-  
+  <br /><br />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kilop206&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Languages graph" />
-
 </div>
-
-###
