@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Guilherme from Brazil<br><br>- 🔭 I’m working as a Minor Apprentice at WEG<br>- 📚 I'm currently learning Spring Security<br>- ⚡ In my free time I develop creative media<br> - ⚙️ 2nd place at WorldSkills SC 2026</p>
+<p align="left">I'm Guilherme from Brazil<br><br>- 🔭 I’m working as a Minor Apprentice at WEG<br>- 📚 I'm currently learning Spring Security<br>- ⚡ In my free time I develop creative media<br> - ⚙️ 2nd place at Industry 4.0 modality at WorldSkills SC 2026</p>
 
 ###
 
