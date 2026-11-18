@@ -71,8 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ABAP-0070AD?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP"/>
 </div>
 
 ###
